@@ -7,6 +7,7 @@ namespace Aranzmani
 {
     public class Aranzman
     {
+        // did it work ? :D
         public string mesto { get; set; }
         public string drzava { get; set; }
         public int denovi { get; set; }
